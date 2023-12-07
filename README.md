@@ -1,5 +1,5 @@
 # Dio | Resumos 
- Repositório para armazenar resumos sobre Git e GitHub do curso VErsionamento. 
+ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento. 
 
 ## 📚 Documentção
 - [Documentação Git](https://git-scm.com/doc)
@@ -9,4 +9,4 @@
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | Resumos
+| Gravando Alterações no Repositório Local | Resumo
